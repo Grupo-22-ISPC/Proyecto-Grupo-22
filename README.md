@@ -21,7 +21,7 @@ Acá podemos escribir a quién está dirigido nuestro proyecto. Por ejemplo: est
 **Gerardo Catalas**  
 Desarrollador web y de aplicaciones móviles en formación. Actualmente trabajando con el lenguaje Python.
 
-**Gastón Alonso**
+**Gastón Alonso**       
 Estudiante del ISPC, interesado en el desarrollo web y la programación en Python. Siempre aprendiendo y buscando mejorar.
 
 <!-- Acá tenemos que ir agregando nuestros nombres -->
