@@ -24,7 +24,7 @@ Desarrollador web y de aplicaciones móviles en formación. Actualmente trabajan
 **Gastón Alonso**       
 Estudiante del ISPC, interesado en el desarrollo web y la programación en Python. Siempre aprendiendo y buscando mejorar.
 
-**Kevin Cristofer Lorea Tannfeld**
+**Kevin Cristofer Lorea Tannfeld**  
 Estudiante del ISPC, estudiando python.
 
 <!-- Acá tenemos que ir agregando nuestros nombres -->
