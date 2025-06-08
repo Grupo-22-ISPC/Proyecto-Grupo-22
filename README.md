@@ -5,8 +5,10 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 Titulo del proyecto : gestion del negosio
 
-descripcion : es una aplicación que te ayuda a gestionar inventarios y gestionar envíos  
+descripcion : es una aplicación que te ayuda a gestionar inventarios y gestionar envíos
+  
 Posibles Funcionalidades o Áreas de Enfoque Inicial:
+
 Aplicación de gestión de inventarios: Automatiza el seguimiento de inventarios, alertando a los negocios sobre productos con bajo stock o próximos a caducar. Integración con sistemas de punto de venta.
 
 Aplicación para la gestión de envíos: Optimiza los procesos de envío, integrando con diferentes empresas de mensajería y proporcionando seguimiento en tiempo real.
